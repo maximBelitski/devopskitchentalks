@@ -1,9 +1,10 @@
+![logo](data/dkt20-logo.jpg)
 У нас знаменательное событие - ровно год назад мы решили создать подкаст про DevOps. И вот уже 20 выпусков позади. Сегодня мы поговорим немного об истории создания DevOps Kitchen talks, чего мы за этот год достигли и наших планах на ближайшее будущее. 
 
 Разумеется, обсудим и технические темы - попробуем разобраться что такое технический долг для DevOps специалиста, как правильно траблшутить инциденты и какие техники для этого существуют.
 За время записи этого выпуска произошло 4 технических сбоя, в результате которых мы потеряли 15 ценных минут, где рассматривали такие вещи как диаграмма Исикавы, что нового в сторэджах AWS и как теперь можно оперировать секретами в Google Cloud Code. Ссылки на указанные материалы ищите в доп материалах.
 
-Timing:
+# Timing:
 1:18 - Как родилось название DevOps Kitchen Talks
 2:53 - 30 лет Linux (https://linuxfoundation.org/linux30th)
 4:15 - Зачем учиться в университете?
@@ -26,15 +27,15 @@ Timing:
 59:08 - Архитектурный долг и ремонт (https://dev.to/integerman/sailing-on-the-ship-of-theseus-4dfn)
 01:06:59 - Troubleshooting workflow (https://medium.com/geekculture/rule-1-dont-fix-an-issue-unless-you-can-make-it-worse-1a0acb21890f)
 
-Что утеряно во время записи:
+# Что утеряно во время записи:
 - Git Release 2.31 (https://www.infoq.com/news/2021/04/git-2-31-released)
 - Google Announces the Public Preview of Network Connectivity Center (https://www.infoq.com/news/2021/04/gcp-network-connectivity-center)
 - Java 16 released (https://www.infoq.com/news/2021/03/java16-released)
 - AWS Announces Lower Cost Storage Classes for Amazon Elastic File System (https://www.infoq.com/news/2021/03/aws-efs-one-zone-storage-classes)
 - Google Cloud Code now includes Secret Manager integration (https://cloud.google.com/blog/topics/developers-practitioners/introducing-cloud-code-secret-manager-integration)
 
-Сказать спасибо:
+# Сказать спасибо:
 https://www.patreon.com/devopskitchentalks
 
-Музыка:
+# Музыка:
 https://www.bensound.com/
